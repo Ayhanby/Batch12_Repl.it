@@ -3,6 +3,8 @@ package repl.its;
 import java.util.*;
 
 public class B138_Zombies2 {
+	
+	
 	public static void main(String[] args) {
 	    Scanner input = new Scanner(System.in);
 	    int[] inhabitants = new int[8];
